@@ -1,0 +1,9 @@
+Selected lines from the pinned verification run on 2026-11-25 UTC.
+G11: both constructions agree on all 2,048 assignments
+'RectangleCNFBridge.certified_lower' depends on axioms: [propext, Classical.choice, Quot.sound]
+'SingleSharedFormula.g11' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Private6796Cost23.physical' depends on axioms: [propext, Classical.choice, Quot.sound]
+Both premises of certified_lower passed on one CNF: 17476 physical clauses, 2095 variable meanings, 63326 LRAT actions.
+'AmplifiedNormalization.normalize' depends on axioms: [propext, Classical.choice, Quot.sound]
+Verification complete.
+Fano exact-statement verifier output is in fano/checker.log.
